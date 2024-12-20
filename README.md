@@ -54,11 +54,24 @@ I have professional experience as a Data Scientist and Technology Analyst, where
 
 ## 🚀 Projects  
 
-- [**LLM-RAG (Retrieval-Augmented Generation)**](https://github.com/yourusername/LLM-RAG):  
-  Built a RAG model integrated with external databases to enhance content retrieval precision by 45%.  
+- [**LLM Retrieval-Augmented Generation for Poetry**](https://drive.google.com/drive/folders/1wacaZSGsG9i5kS-YFBcO5PE2m61Z_5mw?usp=drive_link):  
+  Built a Retrieval-Augmented Generation (RAG) model integrated with external databases to enhance content retrieval precision by 45% and generate rich, contextually meaningful poetry.  
 
-- [**Human Action Recognition**](https://github.com/yourusername/Human-Action-Recognition):  
-  Developed an action recognition system with CNN-RNN and Transformers, achieving 95% accuracy.  
+- [**Canvas Learning Management System**](https://github.com/ruchithareddy269/Canvas-Learning-Management-System):  
+  Designed and implemented a Learning Management System to manage educational courses, assignments, and user roles efficiently. This project demonstrates robust backend logic and a user-friendly frontend interface.  
+
+- [**Harnessing Language Models for Insightful Macroeconomic Analysis from User-Driven Prompts**](https://github.com/ruchithareddy269/cmpe256-Hackathon):  
+  Developed a system leveraging advanced language models to analyze macroeconomic data and provide insights based on user-defined prompts. This project showcases the practical application of AI in economics.  
+
+- [**Book Recommendation System**](https://github.com/ruchithareddy269/256-Project-Book_Recommendation_System):  
+  Built a recommendation engine using collaborative filtering and natural language processing techniques to suggest books based on user preferences and past interactions.  
+
+- [**Forecasting Bicycle Rentals: Time-Series Analysis**](https://github.com/ruchithareddy269/255-Final-Project):  
+  Utilized time-series analysis to predict bicycle rental volumes based on factors such as weather conditions, temperature, and seasonal trends. This project focused on identifying key factors influencing rental patterns and delivering accurate forecasts.  
+
+- [**HR Portal Project**](https://github.com/ruchithareddy269/CMPE-272-HR-portal-Project):  
+  Developed a microservices-based HR portal using AngularJS, Node.js, Kafka, Terraform, Docker, Kubernetes, and AWS. Features include JWT authentication, Okta SSO integration, and a Jenkins CI/CD pipeline for seamless deployment.  
+
 
 ---
 
